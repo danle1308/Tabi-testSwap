@@ -138,7 +138,9 @@ const DropdownMenu: React.FC<DropdownMenuProps> = ({
                         href={href}
                         onClick={() => {
                           setIsOpen(false)
-                          handleCloseMenu()
+                          if (isMobile) {
+                            handleCloseMenu()
+                          }
                         }}
                         {...itemProps}
                       >
