@@ -1,0 +1,46 @@
+{
+  "name": "TabiSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": ["TabiSwap", "default"],
+  "tokens": [
+    {
+      "name": "TabiSwap",
+      "symbol": "TBS",
+      "address": "0x452b9D82e7f72fE972Cc3Ca4568c084E7ff3E21b",
+      "chainId": 9788,
+      "decimals": 18,
+      "logoURI": "/images/dex-tokens/0x5387c85a4965769f6b0df430638a1388493486f1.png"
+    },
+    {
+      "name": "Wrapped TABI",
+      "symbol": "WTABI",
+      "address": "0xCde9c6ad3f82f322AC86DC63eFF63bC405072F95",
+      "chainId": 9788,
+      "decimals": 18,
+      "logoURI": "/images/dex-tokens/0x5387c85a4965769f6b0df430638a1388493486f1.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0x2CcaD515c13Df2178f6960304aE0Dbe0428E8d28",
+      "chainId": 9788,
+      "decimals": 18,
+      "logoURI": "/images/dex-tokens/0x2CcaD515c13Df2178f6960304aE0Dbe0428E8d28.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xcDc10593a66185AAa206665C5083ac51Ad935F91",
+      "chainId": 9788,
+      "decimals": 18,
+      "logoURI": "/images/dex-tokens/0xcDc10593a66185AAa206665C5083ac51Ad935F91.png"
+    }
+  ]
+}
